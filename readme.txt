@@ -3,7 +3,7 @@ Tic tac toe game with smart AI that will never lose (Intermediate Programming co
 
 *Do not use code from this or copy any aspects without explicit permission from creator*
 
-Use the makefile to compile and run
+Use the makefile to compile and view the executable file names to actually run the programs
 
 *NOTE: You must run each a1p# in order from 1 to 5*
 
